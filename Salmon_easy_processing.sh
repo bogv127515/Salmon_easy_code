@@ -1,4 +1,7 @@
+#!/bin/bash
 #样本比对
+Threads=8
+out_dir="/Path/to/salmon_easy/index"
 
 cat ${file_name}|while read name;
 do
