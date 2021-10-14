@@ -1,6 +1,6 @@
 # Salmon_easy
 
-##Salmon_easy 目录格式
+## Salmon_easy 目录格式
 
 ```
 cd Salmon_easy
