@@ -61,4 +61,4 @@ time featureCounts -a gencode.vM27.annotation.gtf -p -T 8 \
                 -o out_file.txt -g gene_name ./matching/*/*.bam
 #提取计数矩阵
 
-cat out_file.txt | cut -f 7-18> count.Mm.txt
+cat out_file.txt | cut -f 7-13> count.Mm.txt
