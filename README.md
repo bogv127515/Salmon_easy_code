@@ -39,3 +39,4 @@ Salmon_CDS_upstream.sh|Salmon基于CDS区域序列建立索引方法的主要流
 Salmon_CDS_downstream.r|Salmon基于CDS区域序列建立索引方法在R中生成读数矩阵的流程
 Mix_upstream.sh|人与小鼠混合文库的索引策略的索引建立和主要定量流程
 Mix_downstream.r|人与小鼠混合文库的索引策略在R中生成读数矩阵的流程
+Similarity_analysis.py|在Python环境中进行相似性计算的流程
